@@ -1,0 +1,15 @@
+max-top:3
+camera-position:[7.13;8.58;-14]
+camera-rotation:[7;-2.40;0.15]
+spawn-point1:[3;0;2]
+spawn-point2:[5;0;2]
+spawn-point3:[3;0;4]
+spawn-point4:[5;0;4]
+
+[floor;wall][floor;wall][floor;wall][floor;wall][floor;wall][floor;wall][floor;wall][floor;wall]
+[floor;wall][floor][floor][floor][floor][floor][floor][floor;wall]
+[floor;wall][floor][floor][floor][floor][floor][floor][floor;wall]
+[floor;wall][floor][floor][floor][floor][floor][floor][floor;wall]
+[floor;wall][floor][floor][floor][floor][floor][floor][floor;wall]
+[floor;wall][floor][floor][floor][floor][floor][floor][floor;wall]
+[floor;wall][floor;wall][floor;wall][floor;wall][floor;wall][floor;wall][floor;wall][floor;wall]
